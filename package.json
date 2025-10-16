@@ -30,7 +30,7 @@
     "karma-chai": "~0.0.2",
     "karma-ng-scenario": "0.1.0",
     "karma-phantomjs-launcher": "~0.1.0",
-    "bower": "1.3.x",
+    "bower": "1.8.9",
     "mocha": "~1.14.0",
     "chai": "~1.8.0",
     "protractor": "~0.18.1",
